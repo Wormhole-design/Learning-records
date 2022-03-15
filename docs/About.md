@@ -37,9 +37,4 @@ A Software Engineering Undergraduate Student
 <a href="mailto:1819874027@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1819874027@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<!---
-XiaoJing-C/XiaoJing-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
